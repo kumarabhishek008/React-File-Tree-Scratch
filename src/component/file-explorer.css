@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.file-explorer{
+    width: 20%;
+    height: 100vh;
+    background-color: dimgray;
+    padding: 2rem;
+    color: whitesmoke;
+    overflow-y: auto;
+}
+.sub-folder-tree,.sub-folder{
+    margin-left:1rem
+}
